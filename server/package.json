@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "@logux/core": "link:../../logux-core",
+    "@logux/server": "link:../../logux-server"
+  }
+}
